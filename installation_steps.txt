@@ -1,0 +1,30 @@
+Installation Steos:
+======================================
+
+1. put this file inside the "c:/xamp/htdocs" or "c:/wamp/www"
+
+Database Configuration.
+======================================
+
+1. open phpmyadmin
+2. create new database "el".
+3.rember that in confi.php file the name of database and name of database in phpmyadmin must be a same.
+4.import tables in this new database.
+5.check the name of database in RP-PROJECT/config.php that is same as databse that is created in phpmyadmin.
+6.open browser and put url : "localhost/RP-PROJECT/index.php"
+
+For Admin Login : 
+
+Admin Login Details
+=======================================
+
+Email  : 'admin102@gmail.com'
+Password : 'admin123'
+
+For User Login (DEMO):
+
+User Login Details:
+=======================================
+
+User Email : 'adambrown102@gmail.com'
+User Password : '12651265'
